@@ -1,5 +1,5 @@
 # travel_app
 
-A new Flutter project.
+A Travel App UI
 
-[https://drive.google.com/file/d/14nglK7H_fnHZFDlhAJK0mfKOT8PCX7WE/view?usp=sharing]
+<img src="tutorial.gif" width=250>  
